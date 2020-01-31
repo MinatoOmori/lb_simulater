@@ -1,0 +1,33 @@
+T_amb_AVERAGE = 17.0 
+
+Cair = 35.5
+Ceff = 8335.3
+Cc = [113.7, 113.7, 71.83]
+Hc = [2.23, 2.23, 0.87]
+H = 50.37
+lamda1 = 0.83-0.5
+lamda2 = 1-0.83
+HcA=1.24
+HcB=2.23
+b_temp=55.3
+
+q1_BASE=17.4
+q2_BASE=17.3
+
+R=[0.88, 0.88, 0.68]
+D=[8.81, 8.81, 8.72]
+
+qeff_AVERAGE = 218.0
+T1_0_AVERAGE = 34.3
+T2_0_AVERAGE = 36.7
+Tg_0_AVERAGE = 31.0
+T_ex_0_AVERAGE = 23.0
+
+C_LOAD50_POWER = 45.8
+C_LOAD50_50_POWER = 70.4
+C_LOAD100_POWER = 82.4
+G_MATRIX_POWER = 44.5
+C2_MATRIX_POWER = 36.1
+G_BURN_POWER = 62.8
+C2_BURN_POWER = 30.2 #test
+

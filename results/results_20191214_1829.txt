@@ -1,0 +1,21 @@
+req_id, LB_arrival, server_arrival, allocated_server, process_time, finish
+0, 14, 14, 2, 13, 27
+1, 23, 23, 1, 36, 59
+2, 31, 31, 2, 17, 48
+3, 39, 39, 1, 10, 49
+4, 48, 48, 2, 12, 60
+server0 process start: 2019-12-14 18:29:50.561656
+number of requests: 0
+predicted temperature: 
+[23.0]
+server0 process end: 2019-12-14 18:29:50.561708
+server1 process start: 2019-12-14 18:30:40.652660
+number of requests: 2
+predicted temperature: 
+[23.0]
+server1 process end: 2019-12-14 18:30:57.788331
+server2 process start: 2019-12-14 18:31:47.838408
+number of requests: 3
+predicted temperature: 
+[23.0]
+server2 process end: 2019-12-14 18:32:22.957287

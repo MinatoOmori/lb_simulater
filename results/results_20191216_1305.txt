@@ -1,0 +1,16 @@
+req_id, LB_arrival, server_arrival, allocated_server, process_time, finish
+0, 0, 0, 0, 1, 1
+1, 0, 1, 0, 1, 2
+2, 1, 2, 0, 1, 3
+3, 2, 2, 1, 1, 3
+4, 2, 3, 2, 1, 4
+server0 process start: 2019-12-16 13:05:15.236958
+number of requests: 3
+predicted temperature: 
+[23.0, 22.985768595352788, 22.6778002191981, 22.688239771067202]
+server0 process end: 2019-12-16 13:05:20.336346
+server1 process start: 2019-12-16 13:07:43.396156
+number of requests: 1
+predicted temperature: 
+[23.0, 22.98576859535278]
+server1 process end: 2019-12-16 13:07:45.795160

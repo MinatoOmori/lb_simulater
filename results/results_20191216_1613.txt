@@ -1,0 +1,5 @@
+req_id, LB_arrival, server_arrival, allocated_server, process_time, finish
+0, 0, 0, 0, 1, 1
+1, 0, 0, 0, 1, 1
+2, 0, 1, 0, 1, 2
+3, 0, 2, 1, 1, 3

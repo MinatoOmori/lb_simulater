@@ -1,0 +1,6 @@
+req_id, LB_arrival, server_arrival, allocated_server, process_time, finish
+0, 11, 11, 0, 33, 44
+1, 25, 25, 1, 36, 61
+2, 32, 32, 1, 21, 53
+3, 39, 39, 2, 22, 61
+4, 44, 44, 0, 18, 62
